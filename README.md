@@ -144,8 +144,6 @@ Click the link below to view the demo video:
 
 👉 **[Watch Demo Video](https://shorturl.at/J79GW)**
 
-> If GitHub does not preview it directly, it will download automatically.
-
 ---
 
 
@@ -159,5 +157,3 @@ Click the link below to view the demo video:
 ## 🙌 Thank You
 
 Thank you for reviewing my assignment.
-
-```
