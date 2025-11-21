@@ -142,7 +142,7 @@ The recorded demo includes:
 
 Click the link below to view the demo video:
 
-👉 **[Watch Demo Video](./Trizen.mkv)**
+👉 **[Watch Demo Video](https://shorturl.at/J79GW)**
 
 > If GitHub does not preview it directly, it will download automatically.
 
