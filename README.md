@@ -1,6 +1,5 @@
-# ** README.md**
+#  README.md
 
-```md
 # MERN Product Landing Page — Assignment Submission
 
 This project is a responsive MERN-stack Product Landing Page built as part of the Trizen Ventures recruitment assignment.  
