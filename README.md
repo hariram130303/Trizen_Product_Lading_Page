@@ -1,4 +1,4 @@
-# ✅ ** README.md**
+# ** README.md**
 
 ```md
 # MERN Product Landing Page — Assignment Submission
