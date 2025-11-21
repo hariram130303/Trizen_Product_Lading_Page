@@ -1,0 +1,57 @@
+# ============================
+# Node Backend
+# ============================
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+pnpm-debug.log
+
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs
+*.log
+logs/*
+debug.log
+
+# Build outputs
+dist/
+build/
+.tmp/
+
+# Coverage directory
+coverage/
+
+# ============================
+# Frontend (React)
+# ============================
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+/frontend/.env.local
+
+# ============================
+# macOS / Windows
+# ============================
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.idea/
+
+# ============================
+# Misc
+# ============================
+*.cache
+*.pid
+*.seed
+*.pid.lock
+
+# MongoDB dump
+dump/
