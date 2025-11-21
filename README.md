@@ -1,12 +1,4 @@
-Your folder structure and README look good — you're very close to completing the submission.
-Now you just need to **polish the README**, insert your screenshots, and ensure `.gitignore` is correct.
-
-Below is a **final, polished, submission-ready README** exactly in the style companies expect.
-You can **copy–paste this into your `README.md`** and just replace the screenshot links.
-
----
-
-# ✅ **FINAL SUBMISSION-READY README.md**
+# ✅ ** README.md**
 
 ```md
 # MERN Product Landing Page — Assignment Submission
