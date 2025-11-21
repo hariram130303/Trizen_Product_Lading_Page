@@ -1,5 +1,3 @@
-#  README.md
-
 # MERN Product Landing Page — Assignment Submission
 
 This project is a responsive MERN-stack Product Landing Page built as part of the Trizen Ventures recruitment assignment.  
@@ -60,7 +58,7 @@ It includes a React frontend, Node/Express backend, MongoDB data storage, and a 
    ```bash
    cd backend
    npm install
-````
+   ````
 
 2. Create `.env` file:
 
